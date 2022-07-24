@@ -1,5 +1,5 @@
 # Projeto 01
-Acesse em: <a href="https://lfoalves.github.io/projeto01-moveis-customizados">Móveis customizados</a>
+Acesse em: <a href="https://lfoalves.github.io/projeto01-moveis-customizados" title="Acessar o site de Móveis Customizados">Móveis customizados</a>
 
 LAYOUT
 
@@ -20,4 +20,4 @@ Neste projeto foi dado a introdução ao HTML e CSS:
 * Shorthand
 * Border
 
-Author: <a href="https://www.linkedin.com/in/lfoalves/" target="_blank">Luiz Fernando Alves</a>
+Author: <a href="https://www.linkedin.com/in/lfoalves/" target="_blank" title="Autor: Luiz Fernando Alves">Luiz Fernando Alves</a>
