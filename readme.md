@@ -11,6 +11,7 @@ Neste projeto foi dado a introdução ao HTML e CSS:
 * Estrutura e sintaxe do <i>Cascading Style Sheets</i>  
 * Tags/Elementos/Seletores
 * Classes e Identificadores
+* Imagens e acessibilidade
 * Fontes
 * Cores
 * Propriedades: Block e Inline
